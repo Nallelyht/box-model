@@ -57,14 +57,3 @@ img {
   margin: 0px;
 }
 
-a {
-  color: #373B47;
-  text-decoration: none;
-}
-a:hover {
-  color: #E95853;
-}
-
-.text-uppercase {
-  text-transform: uppercase;
-}
