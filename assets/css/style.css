@@ -2,9 +2,9 @@ a {
   color: #373B47;
   text-decoration: none;
 }
-a:hover {
-  color: #E95853;
-}
+    a:hover {
+      color: #E95853;
+    }
 
 .text-uppercase {
   text-transform: uppercase;
@@ -60,12 +60,36 @@ header {
     color: #fff;
     padding: 70px 7px;
 }
-.box-services{
-    display: inline-block;
-    width: 30%;
-    margin-top: 63px;
+    .box-services{
+        display: inline-block;
+        width: 30%;
+        margin-top: 63px;
+    }
+    .text-services{
+        font-size: 35px;
+        letter-spacing: 2px;
+    }
+#work{
+    background-color: #fff;
+    text-align: center;
+    color: #373B47;
+    padding: 70px 7px;
+    
 }
-.text-services{
-    font-size: 35px;
-    letter-spacing: 2px;
+.text-work{
+    
+}
+.box-work{
+    box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    width:30%;
+    height: 30%;
+    margin-top: 10%;
+    margin-left: 3%
+  
+}
+.box-work img{
+    width: 100%;
+    
 }
